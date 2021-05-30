@@ -1,4 +1,4 @@
-# 图集库多线程爬虫 tujigu crawler 
+# 图集谷多线程爬虫 tujigu crawler 
 
 > 仅作学习用，侵删。
 
@@ -23,7 +23,7 @@
 
 ## 安装方法：
 
-1. `git clone `
+1. `git clone git@github.com:Eished/tujigu_crawler.git `
 2. `npm install`
 
 ## 必要的配置：
